@@ -1,3 +1,5 @@
 This is a test.
 #
 Multibranch pipeline.
+#
+commit based vs pr triggers.
